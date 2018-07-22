@@ -10,7 +10,7 @@ __Controls:__
 
 -----Use the arrow keys to move and Spacebar to shoot.
   
-__Current main mechanics: __
+__Current main mechanics:__
   
 -----Platforms that move horizontaly and vertical
   
