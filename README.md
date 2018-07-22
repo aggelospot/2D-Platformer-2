@@ -1,16 +1,16 @@
 # 2D-Platformer-2
 2D Platformer 
 
-Currently a Sandbox with only 1 level, more levels will be added.
+Currently a Sandbox with only 1 level, more levels will be added. Made with Pycharm
+
+__The goal of this project is to train an algorithm to beat the game on it's own.
 
 
-The goal of this project is to train an algorithm to beat the game on it's own.
-
-Controls:
+__Controls:
 
 -----Use the arrow keys to move and Spacebar to shoot.
   
-Current main mechanics: 
+__Current main mechanics: 
   
 -----Platforms that move horizontaly and vertical
   
@@ -24,7 +24,7 @@ Current main mechanics:
 
 More complex mechanics might be added depending on how difficult it will be for the algorith to beat the game  
 
-Current known bugs:
+__Current known bugs:
 
 -----Sometimes projectiles don't damage the enemies when colliding from the back because i need to crop the animations more precisely
 
