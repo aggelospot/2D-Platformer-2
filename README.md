@@ -3,7 +3,7 @@
 
 Currently a Sandbox with only 1 level, more levels will be added. Made with Pycharm
 
-__The goal of this project is to train an algorithm to beat the game on it's own.
+__The goal of this project is to train an algorithm to beat the game on it's own.__
 
 
 __Controls:
