@@ -17,7 +17,7 @@ Current main mechanics:
   
   Animations for enemies/player
   
-  Invanurability for 1 second when the player takes damage
+  Invanurability for 1 second when the player takes damage.
 
 More complex mechanics might be added depending on how difficult it will be for the algorith to beat the game  
 
