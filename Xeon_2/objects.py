@@ -49,7 +49,6 @@ class Bat(Entity):
     def __init__(self, x, y, xvel):
         Entity.__init__(self)
         # Create Surface Area
-        print("created bat")
         self.image = pygame.Surface((90, 90), pygame.SRCALPHA)
         self.rect = pygame.Rect(0, 0, 80, 80)
 
